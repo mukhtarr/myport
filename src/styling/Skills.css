@@ -1,0 +1,15 @@
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  #skills li {
+    background-color: #3498db;
+    color: white;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 3px;
+  }

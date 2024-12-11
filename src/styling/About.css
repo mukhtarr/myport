@@ -1,0 +1,23 @@
+#about {
+  background-color: #f9f9f9;
+  padding: 1px;
+  border-radius: 10px;
+}
+
+/* Experience.css */
+.job {
+  margin-bottom: 5px;
+}
+
+.job h3 {
+  margin-bottom: 5px;
+}
+
+.job p {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.job ul {
+  padding-left: 20px;
+}
